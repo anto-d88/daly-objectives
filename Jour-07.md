@@ -27,24 +27,8 @@
 
 ## Javascript : 
 
-  * [ ] Savoir comment insérer du javascript dans du HTML de différentes manières (http://fr.javascript.info/hello-world)
-  * [ ] Savoir comment sont structurés les documents javascript (http://fr.javascript.info/structure)
-  * [ ] Comprendre le fonctionnement et l'utilité du `"use strict"` (http://fr.javascript.info/strict-mode)
+  * [x] Savoir comment insérer du javascript dans du HTML de différentes manières (http://fr.javascript.info/hello-world)
+  * [x] Savoir comment sont structurés les documents javascript (http://fr.javascript.info/structure)
+  * [x] Comprendre le fonctionnement et l'utilité du `"use strict"` (http://fr.javascript.info/strict-mode)
 <<<<<<< HEAD
-=======
-* [ ] Savoir se documenter (MDN)
-* [ ] Découverte de la sainte trinité du web (HTML, CSS et JS)
-  * [ ] Comprendre les différences et rôle de chacun
-* [ ] Découvrir les bases de HTML :
-  * [ ] Comprendre la structure de base HTML et la syntaxe
-  * [ ] Découvrir les principaux tags HTML et comprendre leur utilité
-  * [ ] Savoir architecturer une page HTML basique
-  * [ ] Comprendre le fonctionnement des attributs en HTML
-  * [ ] Savoir commenter dans une page HTML
-  * [ ] Découvrir le principe de parents/enfants
-  * [ ] Découvrir le HTML5 sémantique
-* [ ] Comprendre la différence entre les liens relatifs et liens absolus
-* [ ] Créer sa première page HTML (voir brief CV)
->>>>>>> 72d7cfd497de0e286a0338953c331d2c68b18232
-=======
->>>>>>> 19cd2055fcf098a96b76e8ff188d9eca508d2fcc
+

@@ -19,14 +19,14 @@
 
 ## Javascript : 
 
-  * [ ] Comprendre le fonctionnement et l'utilité des variables (http://javascript.info/variables)
-    * [ ] Comprendre la différence entre `let`, `var` et `const`
-    * [ ] Faire les 3 exercices
+  * [x] Comprendre le fonctionnement et l'utilité des variables (http://javascript.info/variables)
+    * [x] Comprendre la différence entre `let`, `var` et `const`
+    * [x] Faire les 3 exercices
 
 
 ### Algo : 
 
-  * [ ] Comprendre ce qu'est un algorithme
-  * [ ] Comprendre l'utilité des algorithmes
-  * [ ] Déterminer l'importance de l’étude des algorithmes dans une carrière de dev
+  * [x] Comprendre ce qu'est un algorithme
+  * [x] Comprendre l'utilité des algorithmes
+  * [x] Déterminer l'importance de l’étude des algorithmes dans une carrière de dev
 >>>>>>> 19cd2055fcf098a96b76e8ff188d9eca508d2fcc
