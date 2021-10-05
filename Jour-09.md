@@ -12,24 +12,10 @@
 * [X] Découvrir le CSS :
   * [X] Comprendre la syntaxe de base
 =======
-* [ ] Découvrir le CSS :
-  * [ ] Comprendre la syntaxe de base
+* [x] Découvrir le CSS :
+  * [x] Comprendre la syntaxe de base
 >>>>>>> 740348b6cf3dba3a13df0165e53e8095ceb85b62
-  * [ ] Savoir insérer du CSS de différentes manières dans une page HTML (4 manières)
-  * [ ] Comprendre l'utilité et la différence entre classes, pseudo-classes, éléments, pseudo-éléments,  IDs et le selecteur universel
-  * [ ] Savoir appliquer une mise en forme sur les éléments 
-  * [ ] Comprendre le box model
-
-
-### Javascript :
-
-  * [ ] Découvrir les 8 types de données en Javascript et comprendre leurs différences (http://fr.javascript.info/types)
-    * [ ] Faire l'exercice et analyser ses erreurs le cas échéant
-
-
-### Algo : 
-
-  * [ ] Comprendre l'utilité des algorithmes de tri
-  * [ ] Découvrir le tri par insertion (Insertion Sort)
-
-
+  * [x] Savoir insérer du CSS de différentes manières dans une page HTML (4 manières)
+  * [x] Comprendre l'utilité et la différence entre classes, pseudo-classes, éléments, pseudo-éléments,  IDs et le selecteur universel
+  * [x] Savoir appliquer une mise en forme sur les éléments 
+  * [x] Comprendre le box model
