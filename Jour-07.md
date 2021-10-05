@@ -7,6 +7,9 @@
 ### HTML :
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 19cd2055fcf098a96b76e8ff188d9eca508d2fcc
 * [x] Savoir se documenter (MDN)
 * [x] Découverte de la sainte trinité du web (HTML, CSS et JS)
   * [x] Comprendre les différences et rôle de chacun
@@ -27,6 +30,7 @@
   * [ ] Savoir comment insérer du javascript dans du HTML de différentes manières (http://fr.javascript.info/hello-world)
   * [ ] Savoir comment sont structurés les documents javascript (http://fr.javascript.info/structure)
   * [ ] Comprendre le fonctionnement et l'utilité du `"use strict"` (http://fr.javascript.info/strict-mode)
+<<<<<<< HEAD
 =======
 * [ ] Savoir se documenter (MDN)
 * [ ] Découverte de la sainte trinité du web (HTML, CSS et JS)
@@ -42,3 +46,5 @@
 * [ ] Comprendre la différence entre les liens relatifs et liens absolus
 * [ ] Créer sa première page HTML (voir brief CV)
 >>>>>>> 72d7cfd497de0e286a0338953c331d2c68b18232
+=======
+>>>>>>> 19cd2055fcf098a96b76e8ff188d9eca508d2fcc
