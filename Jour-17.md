@@ -9,7 +9,7 @@
 * [x] Comprendre les conversion de types en Javascript (http://fr.javascript.info/type-conversions)
 * [ ] Comprendre le fonctionnement des opérateurs en Javascript (https://fr.javascript.info/operators)
   * [x] Comprendre la différence entre unaire, binaire et opérande
-  * [ ] Comprendre la concaténation
+  * [x] Comprendre la concaténation
   * [ ] Comprendre la précédence des opérateurs
   * [ ] Comprendre le modulo
   * [ ] Comprendre l'incrémentation, la différence entre préfix et postfix
