@@ -10,7 +10,7 @@
 * [ ] Comprendre le fonctionnement des opérateurs en Javascript (https://fr.javascript.info/operators)
   * [x] Comprendre la différence entre unaire, binaire et opérande
   * [x] Comprendre la concaténation
-  * [ ] Comprendre la précédence des opérateurs
+  * [x] Comprendre la précédence des opérateurs
   * [ ] Comprendre le modulo
   * [ ] Comprendre l'incrémentation, la différence entre préfix et postfix
   * [ ] Faire les 4 exercices et analyser ses erreurs
